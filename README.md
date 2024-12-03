@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Basic knowledge of Python and C++
+Basic knowledge of Python and C++. 
 AI/ML Enthusiast
 
 - 🔭 I’m currently working on - Developing new skills 
